@@ -1,2 +1,2 @@
 # braggmaps
-Preliminary geospatial mapping application designed for Bragg Companies.  
+Preliminary geospatial mapping application for Bragg Companies.  
